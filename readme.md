@@ -1,0 +1,1 @@
+* Se le agrego un valor a la TUA, se agregaron los detinos que faltaba, tanto nacionales como internacionales y se le puso un precio diferente a cada uno. 
